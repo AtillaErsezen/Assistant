@@ -1,0 +1,85 @@
+{
+  "open_notepad": [
+    "open notepad",
+    "launch notepad",
+    "start notepad",
+    "can you open notepad"
+  ],
+  "greet": [
+    "hello",
+    "hi there",
+    "hey",
+    "what's up"
+  ],
+  "goodbye": [
+    "bye",
+    "see you",
+    "goodbye"
+  ],
+  "open_outlook": [
+    "open my school email",
+    "school email",
+    "school email please",
+    "open outlook",
+    "open school email"
+  ],
+  "open_gmail": [
+    "open my gmail",
+    "gmail",
+    "gmail please",
+    "open my personal email",
+    "open gmail",
+    "personal email"
+  ],
+  "open_notion": [
+    "open my notion",
+    "notion",
+    "notion please",
+    "open notion",
+    "What do I have for today?",
+    "open my tasks",
+    "check my tasks",
+    "open my calendar",
+    "check my calendar",
+    "open my notes",
+    "open my schedule",
+    "check my schedule",
+    "open my program",
+    "check my program",
+    "show the schedule",
+    "show the program",
+    "check the program",
+    "show me my schedule",
+    "show me my program",
+    "display schedule"
+  ],
+"open_spotify": [
+    "open spotify",
+    "play some music",
+    "open music",
+    "start spotify",
+    "launch spotify",
+    "play songs",
+    "open spotify on browser",
+    "can you play music"
+]
+,
+"open_chatgpt": [
+    "open gpt",
+    "launch gpt",
+    "start gpt",
+    "can you open gpt",
+    "chat with ai",
+    "start ai chat"
+]
+,
+"open_whatsapp": [
+    "open whatsapp",
+    "launch whatsapp",
+    "start whatsapp",
+    "can you open whatsapp",
+    "open my whatsapp",
+    "check whatsapp messages",
+    "open whatsapp on browser"
+]
+}
