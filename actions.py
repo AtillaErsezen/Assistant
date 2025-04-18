@@ -23,6 +23,12 @@ def perform_action(intent):
     elif intent == 'open_chatgpt':
         os.system('start brave "https://chat.openai.com/"')
         return "Opening ChatGPT"
+    elif intent == 'check_holidays':
+        os.system('start brave "https://vu.nl/en/employee/holiday-and-leave/collective-holidays-and-public-holidays"')
+        return "Opening holiday calendar"
+    elif intent == 'open_vu_timetable':
+        os.system('start brave "https://rooster.vu.nl/schedule"')
+        return "Opening VU timetable"
     #Doesn't work
     elif intent == 'open_whatsapp':
         os.system(r'start "" "C:\Users\ersez\AppData\Local\WhatsApp\WhatsApp.exe"')
